@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-09T21:11:57-03:00",
+  "updatedAt": "2026-09-10T10:00:00-03:00",
   "currency": "BRL",
   "headline": {
-    "size": 27,
-    "model": "AOC U27B3A",
-    "reason": "4K + IPS + 163 PPI, com Flicker-Free, Low Blue Light, antirreflexo e VESA por um preço muito competitivo"
+    "size": 29,
+    "model": "LG 29WQ500",
+    "reason": "IPS + ultrawide 2560×1080 + 100 Hz por R$ 999; excelente custo-benefício, embora o 27” 4K continue superior em nitidez de texto"
   },
   "monitors": [
     {
@@ -12,12 +12,12 @@
       "size": 27,
       "model": "AOC U27B3A",
       "brand": "AOC",
-      "price": 999.0,
+      "price": 1299.99,
       "previousPrice": 999.0,
       "lowestPrice": 999.0,
-      "average30d": 999.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com.br/s?k=U27B3A",
+      "average30d": 1149.5,
+      "store": "Pichau",
+      "url": "https://www.pichau.com.br/monitor-home-aoc-u27b3a-27-pol-ips-uhd-4ms-60hz-hdmi-dp-u27b3a",
       "resolution": "3840×2160",
       "format": "16:9",
       "panel": "IPS",
@@ -27,14 +27,18 @@
       "antiGlare": true,
       "flickerFree": true,
       "lowBlueLight": true,
-      "recommendation": "buy",
+      "recommendation": "good",
       "qualityScore": 9.3,
-      "priceScore": 9.6,
-      "notes": "Melhor compra desta rodada para macOS, programação e leitura: 4K em 27” entrega excelente nitidez. AOC confirma painel IPS, antirreflexo, Flicker-Free, Low Blue Light e VESA 100×100.",
+      "priceScore": 8.3,
+      "notes": "Continua excelente para macOS, programação e leitura graças ao 4K em 27”. A oferta confiável confirmada nesta rodada está em R$ 1.299,99 no Pix na Pichau; a antiga de R$ 999 não foi confirmada novamente.",
       "history": [
         {
           "date": "2026-09-09T21:11:57-03:00",
           "price": 999.0
+        },
+        {
+          "date": "2026-09-10T10:00:00-03:00",
+          "price": 1299.99
         }
       ]
     },
@@ -43,10 +47,10 @@
       "size": 29,
       "model": "LG 29WQ500",
       "brand": "LG",
-      "price": 1099.0,
+      "price": 999.0,
       "previousPrice": 1099.0,
-      "lowestPrice": 1099.0,
-      "average30d": 1099.0,
+      "lowestPrice": 999.0,
+      "average30d": 1049.0,
       "store": "Mercado Livre",
       "url": "https://lista.mercadolivre.com.br/29wq500b",
       "resolution": "2560×1080",
@@ -58,14 +62,18 @@
       "antiGlare": true,
       "flickerFree": true,
       "lowBlueLight": true,
-      "recommendation": "good",
+      "recommendation": "buy",
       "qualityScore": 8.2,
-      "priceScore": 8.1,
-      "notes": "Bom ultrawide compacto e IPS. A oferta de R$ 1.099 aparece no Mercado Livre; para texto, porém, a densidade é bem menor que a do 27” 4K.",
+      "priceScore": 9.2,
+      "notes": "Caiu para R$ 999 e vira o melhor custo-benefício desta rodada. Tem IPS, 100 Hz, 99% sRGB, antirreflexo e VESA 100×100. Para texto, porém, 96 PPI é bem menos nítido que um 27” 4K.",
       "history": [
         {
           "date": "2026-09-09T21:11:57-03:00",
           "price": 1099.0
+        },
+        {
+          "date": "2026-09-10T10:00:00-03:00",
+          "price": 999.0
         }
       ]
     },
@@ -92,7 +100,7 @@
       "recommendation": "watch",
       "qualityScore": 9.6,
       "priceScore": 7.2,
-      "notes": "É exatamente o perfil que queremos em 32”: 4K IPS, 99% sRGB, Eye Saver, Flicker Free, VESA 100×100 e USB-C de 90 W. Qualidade excelente, mas o preço atual ainda pede espera por promoção.",
+      "notes": "É o perfil ideal em 32”: 4K IPS, 99% sRGB, Eye Saver, Flicker Free, VESA 100×100 e USB-C de 90 W. O anúncio direto da KaBuM está esgotado nesta rodada, então o preço anterior foi preservado até surgir uma oferta confiável confirmada.",
       "history": [
         {
           "date": "2026-09-09T21:11:57-03:00",
@@ -105,12 +113,12 @@
       "size": 34,
       "model": "LG 34WR50QK-B",
       "brand": "LG",
-      "price": 1799.0,
+      "price": 1899.99,
       "previousPrice": 1799.0,
       "lowestPrice": 1799.0,
-      "average30d": 1799.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com.br/s?k=34WR50QK-B",
+      "average30d": 1849.5,
+      "store": "Pichau",
+      "url": "https://www.pichau.com.br/monitor-gamer-lg-ultragear-34-pol-va-curvo-qhd-5ms-100hz-freesync-hdmi-dp-34wr50qk-b",
       "resolution": "3440×1440",
       "format": "21:9 Ultrawide",
       "panel": "VA",
@@ -122,12 +130,16 @@
       "lowBlueLight": true,
       "recommendation": "good",
       "qualityScore": 9.0,
-      "priceScore": 8.4,
-      "notes": "Forte opção para o setup com MacBook embaixo: 3440×1440, 100 Hz, sRGB 99%, antirreflexo, Reader Mode, Flicker Safe e VESA 100×100. É VA, mas oferece ótimo conjunto de produtividade pelo preço.",
+      "priceScore": 8.0,
+      "notes": "Continua forte para produtividade: 3440×1440, 100 Hz, sRGB 99%, antirreflexo, Reader Mode, Flicker Safe e VESA 100×100. A oferta confiável confirmada agora é R$ 1.899,99 no Pix na Pichau.",
       "history": [
         {
           "date": "2026-09-09T21:11:57-03:00",
           "price": 1799.0
+        },
+        {
+          "date": "2026-09-10T10:00:00-03:00",
+          "price": 1899.99
         }
       ]
     }
