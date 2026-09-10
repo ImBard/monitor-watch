@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0b0d12" />
+  <title>Monitor Watch</title>
+  <meta name="description" content="Acompanhe os melhores preços de monitores para MacBook, programação e trabalho." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="noise"></div>
+
+  <header class="topbar">
+    <div class="brand">
+      <div class="logo">MW</div>
+      <div>
+        <h1>Monitor Watch</h1>
+        <p>Preço + qualidade para MacBook e trabalho</p>
+      </div>
+    </div>
+
+    <div class="header-actions">
+      <span id="updatedAt" class="updated">Atualizando...</span>
+      <button id="themeButton" class="ghost-button" type="button" aria-label="Alternar tema">◐</button>
+    </div>
+  </header>
+
+  <main class="page">
+    <section id="hero" class="hero skeleton"></section>
+
+    <section class="controls-panel">
+      <div class="filters">
+        <button class="filter active" data-size="all">Todos</button>
+        <button class="filter" data-size="27">27"</button>
+        <button class="filter" data-size="29">29"</button>
+        <button class="filter" data-size="32">32"</button>
+        <button class="filter" data-size="34">34"</button>
+      </div>
+
+      <div class="sort-wrap">
+        <label for="sort">Ordenar</label>
+        <select id="sort">
+          <option value="recommended">Recomendação</option>
+          <option value="price">Menor preço</option>
+          <option value="quality">Qualidade</option>
+          <option value="ppi">Nitidez / PPI</option>
+        </select>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-heading">
+        <div>
+          <span class="eyebrow">RADAR ATUAL</span>
+          <h2>Melhores opções por tamanho</h2>
+        </div>
+        <div class="legend">
+          <span><i class="dot green"></i> Comprar</span>
+          <span><i class="dot yellow"></i> Bom</span>
+          <span><i class="dot blue"></i> Observar</span>
+        </div>
+      </div>
+      <div id="cards" class="cards-grid"></div>
+    </section>
+
+    <section class="comparison">
+      <div class="section-heading">
+        <div>
+          <span class="eyebrow">COMPARAÇÃO RÁPIDA</span>
+          <h2>O que importa para o seu uso</h2>
+        </div>
+      </div>
+      <div class="comparison-grid">
+        <article>
+          <span class="comparison-number">27"</span>
+          <h3>QHD ou 4K</h3>
+          <p>Ótimo equilíbrio entre nitidez, ergonomia e preço.</p>
+        </article>
+        <article>
+          <span class="comparison-number">29"</span>
+          <h3>2560×1080+</h3>
+          <p>Ultrawide compacto. Bom para dividir código e navegador.</p>
+        </article>
+        <article>
+          <span class="comparison-number">32"</span>
+          <h3>4K IPS</h3>
+          <p>Alvo ideal para texto nítido, leitura e produtividade.</p>
+        </article>
+        <article>
+          <span class="comparison-number">34"</span>
+          <h3>3440×1440</h3>
+          <p>Muito espaço horizontal sem sacrificar densidade de pixels.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="methodology">
+      <div>
+        <span class="eyebrow">CRITÉRIOS</span>
+        <h2>Como a recomendação é calculada</h2>
+        <p>O site não olha apenas o menor número. Ele prioriza resolução adequada ao tamanho, painel, nitidez de texto, conforto visual, VESA, marca, garantia e preço atual.</p>
+      </div>
+      <div class="criteria">
+        <span>IPS quando possível</span>
+        <span>Antirreflexo</span>
+        <span>Flicker-free</span>
+        <span>Low Blue Light</span>
+        <span>VESA</span>
+        <span>Boa densidade de pixels</span>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Monitor Watch · dados em <code>data.json</code> · pronto para GitHub Pages</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
