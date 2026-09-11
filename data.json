@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-10T10:00:00-03:00",
+  "updatedAt": "2026-09-10T22:45:02-03:00",
   "currency": "BRL",
   "headline": {
-    "size": 29,
-    "model": "LG 29WQ500",
-    "reason": "IPS + ultrawide 2560×1080 + 100 Hz por R$ 999; excelente custo-benefício, embora o 27” 4K continue superior em nitidez de texto"
+    "size": 27,
+    "model": "AOC U27B3A",
+    "reason": "Para o seu uso com MacBook, programação e leitura, 27” 4K IPS continua oferecendo o melhor equilíbrio entre nitidez, conforto visual e preço"
   },
   "monitors": [
     {
@@ -13,9 +13,9 @@
       "model": "AOC U27B3A",
       "brand": "AOC",
       "price": 1299.99,
-      "previousPrice": 999.0,
+      "previousPrice": 1299.99,
       "lowestPrice": 999.0,
-      "average30d": 1149.5,
+      "average30d": 1199.66,
       "store": "Pichau",
       "url": "https://www.pichau.com.br/monitor-home-aoc-u27b3a-27-pol-ips-uhd-4ms-60hz-hdmi-dp-u27b3a",
       "resolution": "3840×2160",
@@ -27,10 +27,10 @@
       "antiGlare": true,
       "flickerFree": true,
       "lowBlueLight": true,
-      "recommendation": "good",
+      "recommendation": "buy",
       "qualityScore": 9.3,
-      "priceScore": 8.3,
-      "notes": "Continua excelente para macOS, programação e leitura graças ao 4K em 27”. A oferta confiável confirmada nesta rodada está em R$ 1.299,99 no Pix na Pichau; a antiga de R$ 999 não foi confirmada novamente.",
+      "priceScore": 8.4,
+      "notes": "Preço confirmado novamente em R$ 1.299,99 no Pix na Pichau. Continua sendo a opção que eu mais gosto para seu uso por causa do 4K IPS em 27”, com 163 PPI, antirreflexo, Flicker-Free, Low Blue Mode e VESA.",
       "history": [
         {
           "date": "2026-09-09T21:11:57-03:00",
@@ -38,6 +38,10 @@
         },
         {
           "date": "2026-09-10T10:00:00-03:00",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-09-10T22:45:02-03:00",
           "price": 1299.99
         }
       ]
@@ -47,12 +51,12 @@
       "size": 29,
       "model": "LG 29WQ500",
       "brand": "LG",
-      "price": 999.0,
-      "previousPrice": 1099.0,
+      "price": 1099.0,
+      "previousPrice": 999.0,
       "lowestPrice": 999.0,
-      "average30d": 1049.0,
+      "average30d": 1065.67,
       "store": "Mercado Livre",
-      "url": "https://lista.mercadolivre.com.br/29wq500b",
+      "url": "https://lista.mercadolivre.com.br/29wq500",
       "resolution": "2560×1080",
       "format": "21:9 Ultrawide",
       "panel": "IPS",
@@ -62,10 +66,10 @@
       "antiGlare": true,
       "flickerFree": true,
       "lowBlueLight": true,
-      "recommendation": "buy",
+      "recommendation": "good",
       "qualityScore": 8.2,
-      "priceScore": 9.2,
-      "notes": "Caiu para R$ 999 e vira o melhor custo-benefício desta rodada. Tem IPS, 100 Hz, 99% sRGB, antirreflexo e VESA 100×100. Para texto, porém, 96 PPI é bem menos nítido que um 27” 4K.",
+      "priceScore": 8.5,
+      "notes": "O preço confirmado voltou para R$ 1.099 no Mercado Livre. Continua sendo um ultrawide IPS interessante e compacto, mas os 96 PPI ficam bem atrás do 27” 4K para nitidez de texto.",
       "history": [
         {
           "date": "2026-09-09T21:11:57-03:00",
@@ -74,6 +78,10 @@
         {
           "date": "2026-09-10T10:00:00-03:00",
           "price": 999.0
+        },
+        {
+          "date": "2026-09-10T22:45:02-03:00",
+          "price": 1099.0
         }
       ]
     },
@@ -100,7 +108,7 @@
       "recommendation": "watch",
       "qualityScore": 9.6,
       "priceScore": 7.2,
-      "notes": "É o perfil ideal em 32”: 4K IPS, 99% sRGB, Eye Saver, Flicker Free, VESA 100×100 e USB-C de 90 W. O anúncio direto da KaBuM está esgotado nesta rodada, então o preço anterior foi preservado até surgir uma oferta confiável confirmada.",
+      "notes": "Não encontrei nesta rodada uma nova oferta confiável e disponível deste 32” 4K IPS; a Samsung oficial está esgotada. Mantive o último valor observado no histórico, sem criar uma observação de preço falsa.",
       "history": [
         {
           "date": "2026-09-09T21:11:57-03:00",
@@ -109,37 +117,33 @@
       ]
     },
     {
-      "id": "lg-34wr50qk-b",
+      "id": "aoc-u34g4c",
       "size": 34,
-      "model": "LG 34WR50QK-B",
-      "brand": "LG",
-      "price": 1899.99,
-      "previousPrice": 1799.0,
-      "lowestPrice": 1799.0,
-      "average30d": 1849.5,
-      "store": "Pichau",
-      "url": "https://www.pichau.com.br/monitor-gamer-lg-ultragear-34-pol-va-curvo-qhd-5ms-100hz-freesync-hdmi-dp-34wr50qk-b",
+      "model": "AOC AGON U34G4C",
+      "brand": "AOC",
+      "price": 1999.99,
+      "previousPrice": 1999.99,
+      "lowestPrice": 1999.99,
+      "average30d": 1999.99,
+      "store": "KaBuM!",
+      "url": "https://www.kabum.com.br/produto/909137/monitor-gamer-curvo-aoc-agon-34-ultrawide-wqhd-180hz-0-5ms-fast-va-adaptive-sync-altura-ajustavel-preto-u34g4c",
       "resolution": "3440×1440",
       "format": "21:9 Ultrawide",
-      "panel": "VA",
-      "refreshRate": 100,
+      "panel": "Fast VA",
+      "refreshRate": 180,
       "ppi": 110,
       "vesa": true,
       "antiGlare": true,
       "flickerFree": true,
       "lowBlueLight": true,
       "recommendation": "good",
-      "qualityScore": 9.0,
-      "priceScore": 8.0,
-      "notes": "Continua forte para produtividade: 3440×1440, 100 Hz, sRGB 99%, antirreflexo, Reader Mode, Flicker Safe e VESA 100×100. A oferta confiável confirmada agora é R$ 1.899,99 no Pix na Pichau.",
+      "qualityScore": 8.8,
+      "priceScore": 7.8,
+      "notes": "Troquei a opção de 34” porque a disponibilidade do LG ficou inconsistente. Este AOC está confirmado em estoque na KaBuM por R$ 1.999,99 no Pix, com 3440×1440, 180 Hz, Fast VA, Low Blue Light e Flicker Free. Como é um modelo novo no radar, o histórico começa nesta execução.",
       "history": [
         {
-          "date": "2026-09-09T21:11:57-03:00",
-          "price": 1799.0
-        },
-        {
-          "date": "2026-09-10T10:00:00-03:00",
-          "price": 1899.99
+          "date": "2026-09-10T22:45:02-03:00",
+          "price": 1999.99
         }
       ]
     }
