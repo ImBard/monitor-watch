@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T14:00:32-03:00",
+  "updatedAt": "2026-09-11T18:01:02-03:00",
   "currency": "BRL",
   "headline": {
     "size": 27,
@@ -15,7 +15,7 @@
       "price": 1299.99,
       "previousPrice": 1299.99,
       "lowestPrice": 999.0,
-      "average30d": 1239.79,
+      "average30d": 1249.83,
       "store": "Pichau",
       "url": "https://www.pichau.com.br/monitor-home-aoc-u27b3a-27-pol-ips-uhd-4ms-60hz-hdmi-dp-u27b3a",
       "resolution": "3840×2160",
@@ -30,7 +30,7 @@
       "recommendation": "buy",
       "qualityScore": 9.3,
       "priceScore": 8.4,
-      "notes": "Preço confirmado novamente em R$ 1.299,99 no Pix na Pichau (R$ 1.529,40 em 12x de R$ 127,45). Continua sendo a melhor compra para seu uso por causa do 4K IPS em 27”, cerca de 163 PPI, Low Blue Mode e foco em conforto visual. A antiga oferta de R$ 999 permanece como mínima histórica do nosso radar, mas não está ativa agora.",
+      "notes": "Segue em R$ 1.299,99 no Pix na Pichau (R$ 1.529,40 em até 12x de R$ 127,45). Para trabalho e macOS, continua sendo a melhor compra do radar: IPS, 4K e cerca de 163 PPI entregam texto muito mais fino. A antiga oferta de R$ 999 permanece como mínima histórica, mas não está ativa nesta rodada.",
       "history": [
         {
           "date": "2026-09-09T21:11:57-03:00",
@@ -50,6 +50,10 @@
         },
         {
           "date": "2026-09-11T14:00:32-03:00",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-09-11T18:01:02-03:00",
           "price": 1299.99
         }
       ]
@@ -62,9 +66,9 @@
       "price": 1099.0,
       "previousPrice": 1099.0,
       "lowestPrice": 999.0,
-      "average30d": 1079.0,
+      "average30d": 1082.33,
       "store": "Mercado Livre",
-      "url": "https://lista.mercadolivre.com.br/monitor-lg-29wq500",
+      "url": "https://lista.mercadolivre.com.br/29wq500",
       "resolution": "2560×1080",
       "format": "21:9 Ultrawide",
       "panel": "IPS",
@@ -77,7 +81,7 @@
       "recommendation": "good",
       "qualityScore": 8.2,
       "priceScore": 8.5,
-      "notes": "Mantém R$ 1.099 no Mercado Livre, com parcelamento exibido em 12x de R$ 106,69. É IPS, 2560×1080, 100 Hz, sRGB 99%, antirreflexo, Flicker Safe, Modo Leitura e VESA 100×100. Bom para multitarefa, mas os 96 PPI deixam texto visivelmente menos fino que no 27” 4K.",
+      "notes": "Permanece em R$ 1.099 no Mercado Livre, com 12x de R$ 106,69. É IPS, 2560×1080, 100 Hz e bom para multitarefa, mas os 96 PPI deixam código e texto claramente menos nítidos que no 27” 4K. A mínima histórica continua em R$ 999.",
       "history": [
         {
           "date": "2026-09-09T21:11:57-03:00",
@@ -97,6 +101,10 @@
         },
         {
           "date": "2026-09-11T14:00:32-03:00",
+          "price": 1099.0
+        },
+        {
+          "date": "2026-09-11T18:01:02-03:00",
           "price": 1099.0
         }
       ]
@@ -124,7 +132,7 @@
       "recommendation": "watch",
       "qualityScore": 9.6,
       "priceScore": 7.2,
-      "notes": "Mantido sem nova observação de preço: a Samsung confirma as especificações e o excelente perfil de produtividade (4K IPS, 99% sRGB, USB-C 90 W, KVM, Eye Saver, Flicker Free e VESA 100×100), mas não consegui validar uma oferta atual confiável e consistente para substituir o último valor observado. Resultados agregadores mostram preços conflitantes, então foram descartados.",
+      "notes": "Mantido sem nova observação: a KaBuM confirma o excelente conjunto 4K IPS, 99% sRGB, USB-C 90 W, KVM, Eye Saver, Flicker Free e ergonomia completa, mas o produto continua esgotado. Há opções 32” 4K mais baratas, como o LG 32UR500K-B por R$ 1.599,99, porém com painel VA; por isso não substituí a recomendação principal IPS.",
       "history": [
         {
           "date": "2026-09-09T21:11:57-03:00",
@@ -133,41 +141,33 @@
       ]
     },
     {
-      "id": "aoc-u34g4c",
+      "id": "samsung-viewfinity-s5-34-ls34c500galmzd",
       "size": 34,
-      "model": "AOC AGON U34G4C",
-      "brand": "AOC",
-      "price": 1849.99,
-      "previousPrice": 1849.99,
-      "lowestPrice": 1849.99,
-      "average30d": 1899.99,
+      "model": "Samsung ViewFinity S5 34”",
+      "brand": "Samsung",
+      "price": 1749.99,
+      "previousPrice": 1749.99,
+      "lowestPrice": 1749.99,
+      "average30d": 1749.99,
       "store": "Pichau",
-      "url": "https://www.pichau.com.br/monitor-gamer-aoc-agon-quad-34-34-pol-va-wqhd-0-5ms-180hz-freesync-premium-hdmi-dp-u34g4c",
+      "url": "https://www.pichau.com.br/monitor-samsung-viewfinity-s5-34-pol-va-uwqhd-5ms-100hz-freesync-hdmi-dp-ls34c500galmzd",
       "resolution": "3440×1440",
       "format": "21:9 Ultrawide",
-      "panel": "Fast VA",
-      "refreshRate": 180,
+      "panel": "VA",
+      "refreshRate": 100,
       "ppi": 110,
       "vesa": true,
       "antiGlare": true,
       "flickerFree": true,
       "lowBlueLight": true,
       "recommendation": "good",
-      "qualityScore": 8.8,
-      "priceScore": 8.6,
-      "notes": "Mantém a nova mínima de R$ 1.849,99 no Pix na Pichau (R$ 2.176,46 em 12x de R$ 181,37). Entrega 3440×1440, 180 Hz e painel Fast VA; a KaBuM está mais cara a R$ 1.999,99. Para produtividade pura eu ainda prefiro IPS quando o preço é próximo, mas este conjunto segue muito competitivo.",
+      "qualityScore": 9.1,
+      "priceScore": 9.0,
+      "notes": "Nova recomendação de 34” para produtividade: R$ 1.749,99 no Pix na Pichau (R$ 2.058,81 em até 12x de R$ 171,57). Tem 3440×1440, 100 Hz, HDR10, Eye Saver Mode, Flicker Free, ajuste automático de brilho, PIP/PBP e VESA 100×100. É VA, não IPS, mas o conjunto é mais alinhado a trabalho e conforto visual e custa menos que o AOC U34G4C de R$ 1.849,99. Como é um modelo novo no radar, o histórico começa nesta execução.",
       "history": [
         {
-          "date": "2026-09-10T22:45:02-03:00",
-          "price": 1999.99
-        },
-        {
-          "date": "2026-09-11T10:02:49-03:00",
-          "price": 1849.99
-        },
-        {
-          "date": "2026-09-11T14:00:32-03:00",
-          "price": 1849.99
+          "date": "2026-09-11T18:01:02-03:00",
+          "price": 1749.99
         }
       ]
     }
