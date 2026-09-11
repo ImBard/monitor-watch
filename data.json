@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-10T22:45:02-03:00",
+  "updatedAt": "2026-09-11T10:02:49-03:00",
   "currency": "BRL",
   "headline": {
     "size": 27,
     "model": "AOC U27B3A",
-    "reason": "Para o seu uso com MacBook, programação e leitura, 27” 4K IPS continua oferecendo o melhor equilíbrio entre nitidez, conforto visual e preço"
+    "reason": "Para MacBook, programação e leitura, o 27” 4K IPS continua oferecendo o melhor equilíbrio entre nitidez de texto, conforto visual e preço entre as opções confirmadas"
   },
   "monitors": [
     {
@@ -15,7 +15,7 @@
       "price": 1299.99,
       "previousPrice": 1299.99,
       "lowestPrice": 999.0,
-      "average30d": 1199.66,
+      "average30d": 1224.74,
       "store": "Pichau",
       "url": "https://www.pichau.com.br/monitor-home-aoc-u27b3a-27-pol-ips-uhd-4ms-60hz-hdmi-dp-u27b3a",
       "resolution": "3840×2160",
@@ -30,7 +30,7 @@
       "recommendation": "buy",
       "qualityScore": 9.3,
       "priceScore": 8.4,
-      "notes": "Preço confirmado novamente em R$ 1.299,99 no Pix na Pichau. Continua sendo a opção que eu mais gosto para seu uso por causa do 4K IPS em 27”, com 163 PPI, antirreflexo, Flicker-Free, Low Blue Mode e VESA.",
+      "notes": "Preço confirmado novamente em R$ 1.299,99 no Pix na Pichau (R$ 1.529,40 em 12x de R$ 127,45). Continua sendo a melhor compra para seu uso por causa do 4K IPS em 27”, cerca de 163 PPI, Low Blue Mode e foco em conforto visual. A antiga oferta de R$ 999 permanece como mínima histórica do nosso radar, mas não está ativa agora.",
       "history": [
         {
           "date": "2026-09-09T21:11:57-03:00",
@@ -43,6 +43,10 @@
         {
           "date": "2026-09-10T22:45:02-03:00",
           "price": 1299.99
+        },
+        {
+          "date": "2026-09-11T10:02:49-03:00",
+          "price": 1299.99
         }
       ]
     },
@@ -52,11 +56,11 @@
       "model": "LG 29WQ500",
       "brand": "LG",
       "price": 1099.0,
-      "previousPrice": 999.0,
+      "previousPrice": 1099.0,
       "lowestPrice": 999.0,
-      "average30d": 1065.67,
+      "average30d": 1074.0,
       "store": "Mercado Livre",
-      "url": "https://lista.mercadolivre.com.br/29wq500",
+      "url": "https://lista.mercadolivre.com.br/monitor-lg-29wq500",
       "resolution": "2560×1080",
       "format": "21:9 Ultrawide",
       "panel": "IPS",
@@ -69,7 +73,7 @@
       "recommendation": "good",
       "qualityScore": 8.2,
       "priceScore": 8.5,
-      "notes": "O preço confirmado voltou para R$ 1.099 no Mercado Livre. Continua sendo um ultrawide IPS interessante e compacto, mas os 96 PPI ficam bem atrás do 27” 4K para nitidez de texto.",
+      "notes": "Mantém R$ 1.099 no Mercado Livre, com parcelamento exibido em 12x de R$ 106,69. É IPS, 2560×1080, 100 Hz, sRGB 99%, antirreflexo, Flicker Safe, Modo Leitura e VESA 100×100. Bom para multitarefa, mas os 96 PPI deixam texto visivelmente menos fino que no 27” 4K.",
       "history": [
         {
           "date": "2026-09-09T21:11:57-03:00",
@@ -81,6 +85,10 @@
         },
         {
           "date": "2026-09-10T22:45:02-03:00",
+          "price": 1099.0
+        },
+        {
+          "date": "2026-09-11T10:02:49-03:00",
           "price": 1099.0
         }
       ]
@@ -108,7 +116,7 @@
       "recommendation": "watch",
       "qualityScore": 9.6,
       "priceScore": 7.2,
-      "notes": "Não encontrei nesta rodada uma nova oferta confiável e disponível deste 32” 4K IPS; a Samsung oficial está esgotada. Mantive o último valor observado no histórico, sem criar uma observação de preço falsa.",
+      "notes": "Mantido sem nova observação: não consegui confirmar uma oferta atual confiável deste 32” 4K IPS; a loja oficial Samsung continua marcando o modelo como esgotado. O perfil continua excelente para produtividade (4K IPS, 99% sRGB, Eye Saver, Flicker Free, USB-C 90 W e KVM). Como alternativa disponível e mais barata, o LG 32UR500K-B 4K aparece a R$ 1.649 no Mercado Livre, porém usa painel VA, portanto não substitui esta recomendação IPS no radar principal.",
       "history": [
         {
           "date": "2026-09-09T21:11:57-03:00",
@@ -121,12 +129,12 @@
       "size": 34,
       "model": "AOC AGON U34G4C",
       "brand": "AOC",
-      "price": 1999.99,
+      "price": 1849.99,
       "previousPrice": 1999.99,
-      "lowestPrice": 1999.99,
-      "average30d": 1999.99,
-      "store": "KaBuM!",
-      "url": "https://www.kabum.com.br/produto/909137/monitor-gamer-curvo-aoc-agon-34-ultrawide-wqhd-180hz-0-5ms-fast-va-adaptive-sync-altura-ajustavel-preto-u34g4c",
+      "lowestPrice": 1849.99,
+      "average30d": 1924.99,
+      "store": "Pichau",
+      "url": "https://www.pichau.com.br/monitor-gamer-aoc-agon-quad-34-34-pol-va-wqhd-0-5ms-180hz-freesync-premium-hdmi-dp-u34g4c",
       "resolution": "3440×1440",
       "format": "21:9 Ultrawide",
       "panel": "Fast VA",
@@ -138,12 +146,16 @@
       "lowBlueLight": true,
       "recommendation": "good",
       "qualityScore": 8.8,
-      "priceScore": 7.8,
-      "notes": "Troquei a opção de 34” porque a disponibilidade do LG ficou inconsistente. Este AOC está confirmado em estoque na KaBuM por R$ 1.999,99 no Pix, com 3440×1440, 180 Hz, Fast VA, Low Blue Light e Flicker Free. Como é um modelo novo no radar, o histórico começa nesta execução.",
+      "priceScore": 8.6,
+      "notes": "Queda relevante: de R$ 1.999,99 para R$ 1.849,99 no Pix na Pichau (R$ 2.176,46 em 12x de R$ 181,37), nova mínima do nosso radar. Entrega 3440×1440, 180 Hz, Fast VA, Flicker-Free e Low Blue Light. Para produtividade pura eu ainda prefiro IPS quando o preço é próximo, mas este conjunto ficou bastante competitivo.",
       "history": [
         {
           "date": "2026-09-10T22:45:02-03:00",
           "price": 1999.99
+        },
+        {
+          "date": "2026-09-11T10:02:49-03:00",
+          "price": 1849.99
         }
       ]
     }
