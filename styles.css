@@ -536,3 +536,60 @@ footer {
   .specs { grid-template-columns: repeat(2, 1fr); }
   .comparison-grid { grid-template-columns: 1fr; }
 }
+
+.alternatives {
+  margin-top: 16px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.alternatives summary {
+  cursor: pointer;
+  padding: 13px 14px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 750;
+  user-select: none;
+}
+
+.alternatives summary:hover {
+  color: var(--text);
+}
+
+.alternatives-list {
+  border-top: 1px solid var(--border);
+}
+
+.alternative-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 13px 14px;
+  border-bottom: 1px solid var(--border);
+}
+
+.alternative-row:last-child {
+  border-bottom: 0;
+}
+
+.alternative-row > div:last-child {
+  text-align: right;
+  flex: 0 0 auto;
+}
+
+.alternative-row strong,
+.alternative-row span {
+  display: block;
+}
+
+.alternative-row strong {
+  font-size: 12px;
+}
+
+.alternative-row span {
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 10px;
+  line-height: 1.35;
+}
