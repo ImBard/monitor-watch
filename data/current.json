@@ -4,7 +4,7 @@
   "headline": {
     "size": 34,
     "model": "Samsung ViewFinity S5 34",
-    "reason": "R$ 1.540 no Pix reconfirmados; continua forte para produtividade, mas a mínima histórica de R$ 1.295,19 não voltou."
+    "reason": "R$ 1.540 no Pix reconfirmados; a mínima histórica continua R$ 1.295,19."
   },
   "monitors": [
     {
@@ -13,10 +13,10 @@
       "model": "AOC U27B3A",
       "brand": "AOC",
       "price": 1578.84,
-      "previousPrice": 1109.34,
+      "previousPrice": 1578.84,
       "lowestPrice": 999,
       "average30d": 1134.16,
-      "store": "Carrefour Marketplace (vendido por Ponto)",
+      "store": "Carrefour Marketplace (Ponto)",
       "url": "https://www.carrefour.com.br/produto/monitor-k-uba-hdr0-alto-falantes-integrados-bivolt-aoc-339568282",
       "resolution": "3840x2160",
       "format": "16:9",
@@ -30,7 +30,7 @@
       "recommendation": "watch",
       "qualityScore": 9.3,
       "priceScore": 6.8,
-      "notes": "Oferta atual verificável: R$ 1.578,84 no Pix ou em até 8x de R$ 197,35, vendido e entregue por Ponto via Carrefour. A mínima histórica permanece R$ 999. O salto frente à última oferta confiável de R$ 1.109,34 reduz bastante o custo-benefício."
+      "notes": "Oferta atual verificável: R$ 1.578,84 no Pix ou em até 8x de R$ 197,35. A mínima histórica permanece R$ 999."
     },
     {
       "id": "lg-29wq500",
@@ -55,7 +55,7 @@
       "recommendation": "buy",
       "qualityScore": 8.2,
       "priceScore": 9.2,
-      "notes": "Última oferta oficial confirmada permanece R$ 999,90 na LG Oficial no Mercado Livre. Não foi encontrada evidência fresca melhor nesta rodada; preço preservado e nenhuma observação nova foi adicionada."
+      "notes": "Última oferta oficial confirmada permanece R$ 999,90; sem evidência fresca melhor nesta rodada, portanto preservado sem nova observação."
     },
     {
       "id": "samsung-viewfinity-s8-32-ls32d800ublxzd",
@@ -80,7 +80,7 @@
       "recommendation": "watch",
       "qualityScore": 9.6,
       "priceScore": 7.2,
-      "notes": "Sem oferta atual suficientemente confiável do S8 32 para substituir o último preço registrado de R$ 2.099; preservado sem nova observação. Como alternativas atuais, LG 32UN500-W está R$ 1.899,99 e Dell P3225QE 4K IPS 100 Hz USB-C PD 90 W está R$ 4.990."
+      "notes": "Sem oferta atual suficientemente confiável do S8 32; preservado em R$ 2.099 sem nova observação. LG 32UN500-W está R$ 1.899,99 e Dell P3225QE está R$ 4.990."
     },
     {
       "id": "samsung-viewfinity-s5-34-ls34c500galmzd",
@@ -105,7 +105,7 @@
       "recommendation": "good",
       "qualityScore": 9.1,
       "priceScore": 8.8,
-      "notes": "Preço reconfirmado em R$ 1.540 no Pix ou R$ 1.588 em 10x sem juros. A mínima histórica segue R$ 1.295,19. Continua sendo a melhor relação preço/espaço entre os 34 UWQHD confirmados nesta rodada."
+      "notes": "Preço reconfirmado em R$ 1.540 no Pix ou R$ 1.588 em 10x. A mínima histórica segue R$ 1.295,19."
     }
   ]
 }
