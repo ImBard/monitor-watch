@@ -1,0 +1,198 @@
+{
+  "updatedAt": "2026-09-23T10:00:00-03:00",
+  "alternatives": {
+    "aoc-u27b3a": [
+      {
+        "id": "lg-27u711b-b",
+        "model": "LG UltraFine 27U711B-B",
+        "category": "image-quality-value",
+        "price": 1399,
+        "store": "Preço oficial de lançamento Brasil",
+        "url": "https://www.lg.com/br/",
+        "resolution": "3840x2160",
+        "panel": "IPS",
+        "refreshRate": 60,
+        "ppi": 163,
+        "vesa": true,
+        "notes": "DCI-P3 90%, 300 nits, HDR10, VESA 100x100; sem USB-C."
+      },
+      {
+        "id": "lg-27u731sb-w",
+        "model": "LG Smart AI 27U731SB-W",
+        "category": "best-macbook-smart",
+        "price": 2299,
+        "store": "LG/preço oficial",
+        "url": "https://www.lg.com/br/monitores/smart-monitors/27u731sb-w/",
+        "resolution": "3840x2160",
+        "panel": "IPS",
+        "refreshRate": 60,
+        "ppi": 163,
+        "usbCPD": 65,
+        "vesa": true,
+        "notes": "350 nits, DCI-P3 90%, webOS 26, AirPlay 2, Wi-Fi/Bluetooth, 2x5 W e USB-C PD 65 W."
+      },
+      {
+        "id": "asus-pa279crv",
+        "model": "ASUS ProArt PA279CRV",
+        "category": "best-quality-current-offer",
+        "price": 2899.99,
+        "store": "TerabyteShop",
+        "url": "https://www.terabyteshop.com.br/produto/42165/monitor-profissional-asus-proart-display-pa279crv-27-pol-4k-uhd-ips-99-dci-p3-99-adobe-rgb-hdr400-hdmidpusb-c",
+        "resolution": "3840x2160",
+        "panel": "IPS",
+        "refreshRate": 60,
+        "ppi": 163,
+        "usbCPD": 96,
+        "vesa": true,
+        "notes": "R$ 2.899,99 no Pix ou R$ 3.411,75 em 12x; 99% DCI-P3/Adobe RGB, HDR400, USB-C PD 96 W e ergonomia completa."
+      },
+      {
+        "id": "dell-s2725qc",
+        "model": "Dell S2725QC",
+        "category": "macbook-120hz",
+        "price": 4128,
+        "store": "Dell Brasil",
+        "url": "https://www.dell.com/pt-br/shop/cty/pdp/spd/s2725qc-monitor/m_s2725qc_usbr",
+        "resolution": "3840x2160",
+        "panel": "IPS",
+        "refreshRate": 120,
+        "ppi": 163,
+        "vesa": true,
+        "notes": "4K IPS 120 Hz e USB-C; R$ 4.128 em até 12x de R$ 344. Excelente conjunto, mas preço oficial atual é pouco competitivo."
+      }
+    ],
+    "lg-29wq500": [
+      {
+        "id": "lg-29wq600",
+        "model": "LG 29WQ600",
+        "category": "better-connectivity",
+        "price": 1353.15,
+        "store": "Última oferta confiável",
+        "url": "https://www.lg.com/br/suporte/suporte-ao-producto/cs-29WQ600B-W.AWZM/",
+        "resolution": "2560x1080",
+        "panel": "IPS",
+        "refreshRate": 100,
+        "ppi": 96,
+        "vesa": true,
+        "notes": "USB-C, HDR10, sRGB 99%, 2x7 W; sem nova cotação confiável nesta execução."
+      },
+      {
+        "id": "avell-fusion-pro-29",
+        "model": "Avell Fusion PRO 29",
+        "category": "high-refresh-value",
+        "price": 1099,
+        "store": "Avell",
+        "url": "https://avell.com.br/monitor-fusion-pro-29-165hz-ultra-wide",
+        "resolution": "2560x1080",
+        "panel": "IPS",
+        "refreshRate": 165,
+        "ppi": 96,
+        "vesa": true,
+        "notes": "Em estoque: R$ 1.099 no Pix ou 12x de R$ 101,76 sem juros. IPS, 165 Hz, 300 nits, sRGB 99%, Flicker Free, Low Blue Light, VESA 75x75 e ajuste de altura 110 mm; sem USB-C."
+      },
+      {
+        "id": "pichau-nexus-wide-29-pro",
+        "model": "Pichau Nexus Wide 29 Pro",
+        "category": "budget-alternative",
+        "price": 1249.99,
+        "store": "Pichau",
+        "url": "https://www.pichau.com.br/",
+        "resolution": "2560x1080",
+        "panel": "IPS",
+        "refreshRate": 100,
+        "ppi": 96,
+        "vesa": true,
+        "notes": "Alternativa nacional na mesma classe 29 ultrawide; última cotação confiável R$ 1.249,99."
+      }
+    ],
+    "samsung-viewfinity-s8-32-ls32d800ublxzd": [
+      {
+        "id": "samsung-uj59-32",
+        "model": "Samsung UJ59 32",
+        "category": "lowest-price",
+        "price": 1301.07,
+        "store": "Última oferta confiável",
+        "url": "https://www.magazineluiza.com.br/",
+        "resolution": "3840x2160",
+        "panel": "VA",
+        "refreshRate": 60,
+        "ppi": 138,
+        "vesa": true,
+        "notes": "4K barato, mas VA e sem USB-C; menor custo, não melhor tela para trabalho prolongado."
+      },
+      {
+        "id": "lg-32un500-w",
+        "model": "LG 32UN500-W",
+        "category": "budget-4k",
+        "price": 1899.99,
+        "store": "Pichau",
+        "url": "https://www.pichau.com.br/monitor-gamer-lg-31-5-pol-va-uhd-4k-4ms-60hz-freesync-hdmi-dp-32un500-w",
+        "resolution": "3840x2160",
+        "panel": "VA",
+        "refreshRate": 60,
+        "ppi": 138,
+        "vesa": true,
+        "notes": "Oferta confirmada: R$ 1.899,99 no Pix ou R$ 2.235,28 em 12x. 4K VA, HDR e speakers; bom custo por pixel, mas sem USB-C e inferior a IPS para o perfil priorizado."
+      },
+      {
+        "id": "asus-pa329cv",
+        "model": "ASUS ProArt PA329CV",
+        "category": "best-quality",
+        "price": 5641.48,
+        "store": "Pichau",
+        "url": "https://www.pichau.com.br/monitor-asus-proart-display-pa329cv-32-pol-ips-4k-uhd-srgb-100-60hz-hdmi-dp-pa329cv",
+        "resolution": "3840x2160",
+        "panel": "IPS",
+        "refreshRate": 60,
+        "ppi": 138,
+        "vesa": true,
+        "notes": "4K IPS, 400 nits, HDR400, 100% sRGB/Rec.709, Delta E <2; excelente tela, preço pouco competitivo."
+      }
+    ],
+    "samsung-viewfinity-s5-34-ls34c500galmzd": [
+      {
+        "id": "lg-34wr50qk-b",
+        "model": "LG 34WR50QK-B",
+        "category": "curved-alternative",
+        "price": 1799,
+        "store": "Última oferta confiável Amazon",
+        "url": "https://www.amazon.com.br/",
+        "resolution": "3440x1440",
+        "panel": "VA",
+        "refreshRate": 100,
+        "ppi": 110,
+        "vesa": true,
+        "notes": "Curvo, 3440x1440, 100 Hz; última oferta confiável R$ 1.799."
+      },
+      {
+        "id": "samsung-odyssey-g5-34",
+        "model": "Samsung Odyssey G5 34",
+        "category": "higher-refresh",
+        "price": 1949,
+        "store": "Última oferta confiável Samsung",
+        "url": "https://shop.samsung.com/br/",
+        "resolution": "3440x1440",
+        "panel": "VA",
+        "refreshRate": 165,
+        "ppi": 110,
+        "vesa": true,
+        "notes": "Curvo, 165 Hz; melhor para jogos, menos focado em docking/produtividade."
+      },
+      {
+        "id": "lg-34ba85qe",
+        "model": "LG 34BA85QE",
+        "category": "best-macbook-dock",
+        "price": 2986,
+        "store": "Office Gov (canal corporativo)",
+        "url": "https://officegov.com.br/produto/monitor-34-lg-34ba85qe-2/",
+        "resolution": "3440x1440",
+        "panel": "IPS",
+        "refreshRate": 60,
+        "ppi": 110,
+        "usbCPD": 90,
+        "vesa": true,
+        "notes": "IPS, USB-C PD 90 W, hub USB, RJ-45, webcam FHD, microfone, speakers e KVM; referência de produto, oferta não varejista."
+      }
+    ]
+  }
+}
