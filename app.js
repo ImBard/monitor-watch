@@ -24,7 +24,11 @@ function recommendationRank(v) {
   return { buy: 0, good: 1, watch: 2 }[v] ?? 9;
 }
 
-function sparkline(history) {
+function sparkline(history = []) {
+  if (!history.length) {
+    return '<div style="height:72px;display:grid;place-items:center;color:var(--muted);font-size:12px">Sem histórico ainda</div>';
+  }
+
   const w = 360, h = 72, p = 6;
   const vals = history.map(x => x.price);
   const min = Math.min(...vals), max = Math.max(...vals);
@@ -88,8 +92,22 @@ function monitorCard(m) {
     m.antiGlare ? "Antirreflexo" : null,
     m.flickerFree ? "Flicker-free" : null,
     m.lowBlueLight ? "Low Blue Light" : null,
-    m.vesa ? "VESA" : null
+    m.vesa ? "VESA" : null,
+    m.usbCPD ? `USB-C PD ${m.usbCPD} W` : null
   ].filter(Boolean);
+
+  const alternatives = (m.alternatives || []).map(a => `
+    <div class="alternative-row">
+      <div>
+        <strong>${a.model}</strong>
+        <span>${a.category || "alternativa"} · ${a.panel || "painel n/d"} · ${a.resolution || ""} · ${a.refreshRate || "?"} Hz${a.usbCPD ? ` · USB-C PD ${a.usbCPD} W` : ""}</span>
+      </div>
+      <div>
+        <strong>${brl.format(a.price)}</strong>
+        <span>${a.store || ""}</span>
+      </div>
+    </div>
+  `).join("");
 
   return `
     <article class="monitor-card">
@@ -129,6 +147,13 @@ function monitorCard(m) {
         ${featureChips.map(x => `<span class="chip">${x}</span>`).join("")}
       </div>
 
+      ${alternatives ? `
+        <details class="alternatives">
+          <summary>Ver ${m.alternatives.length} alternativas</summary>
+          <div class="alternatives-list">${alternatives}</div>
+        </details>
+      ` : ""}
+
       <div class="hero-actions">
         <a class="primary-link" href="${m.url}" target="_blank" rel="noopener">Ver oferta ↗</a>
       </div>
@@ -152,8 +177,34 @@ function render() {
 }
 
 async function boot() {
-  const response = await fetch("data.json", { cache: "no-store" });
-  DATA = await response.json();
+  try {
+    const [currentRes, historyRes, alternativesRes] = await Promise.all([
+      fetch("data/current.json", { cache: "no-store" }),
+      fetch("data/history.json", { cache: "no-store" }),
+      fetch("data/alternatives.json", { cache: "no-store" })
+    ]);
+
+    if (!currentRes.ok || !historyRes.ok || !alternativesRes.ok) throw new Error("split-data unavailable");
+
+    const [current, historyData, alternativesData] = await Promise.all([
+      currentRes.json(),
+      historyRes.json(),
+      alternativesRes.json()
+    ]);
+
+    DATA = {
+      ...current,
+      monitors: current.monitors.map(m => ({
+        ...m,
+        history: historyData.histories?.[m.id] || [],
+        alternatives: alternativesData.alternatives?.[m.id] || []
+      }))
+    };
+  } catch (err) {
+    console.warn("Usando data.json legado como fallback", err);
+    const response = await fetch("data.json", { cache: "no-store" });
+    DATA = await response.json();
+  }
 
   const heroMonitor =
     DATA.monitors.find(m => m.size === DATA.headline.size && m.model === DATA.headline.model)
