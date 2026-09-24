@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-23T10:00:00-03:00",
+  "updatedAt": "2026-09-24T10:37:00-03:00",
   "currency": "BRL",
   "headline": {
-    "size": 34,
-    "model": "Samsung ViewFinity S5 34",
-    "reason": "Nova mínima histórica: R$ 1.295,19 no Pix, vendido e entregue pela Samsung via Magalu; queda de R$ 284,88 (-18,0%) frente à observação anterior de R$ 1.580,07."
+    "size": 29,
+    "model": "LG 29WQ500",
+    "reason": "Oferta oficial em R$ 999,90, muito próxima da mínima histórica de R$ 949,05; continua sendo o melhor preço confirmado da rodada entre os modelos principais."
   },
   "monitors": [
     {
@@ -16,7 +16,7 @@
       "previousPrice": 1109.34,
       "lowestPrice": 999,
       "average30d": 1120.69,
-      "store": "Amazon",
+      "store": "Amazon — última oferta confiável",
       "url": "https://www.amazon.com.br/dp/B0FGDKYGFS",
       "resolution": "3840x2160",
       "format": "16:9",
@@ -27,22 +27,22 @@
       "antiGlare": true,
       "flickerFree": true,
       "lowBlueLight": true,
-      "recommendation": "buy",
+      "recommendation": "watch",
       "qualityScore": 9.3,
-      "priceScore": 9.2,
-      "notes": "Sem nova oferta confiável do SKU principal melhor que R$ 1.109,34; valor anterior preservado. Melhor custo-benefício 4K IPS. LG UltraFine 27U711B-B é alternativa de imagem por R$ 1.399; LG Smart AI 27U731SB-W é melhor para MacBook/um cabo por R$ 2.299; ASUS ProArt PA279CRV está em promoção por R$ 2.899,99."
+      "priceScore": 8.4,
+      "notes": "A última oferta confiável do SKU principal continua R$ 1.109,34 na Amazon. Encontrei o U27B3A no Mercado Livre por cerca de R$ 1.899, mas sem validação suficiente do vendedor para substituir o registro principal. No 27, ProArt PA279CRV está em R$ 3.099,99 e Dell S2725QC em R$ 4.128; ambos têm USB-C PD."
     },
     {
       "id": "lg-29wq500",
       "size": 29,
       "model": "LG 29WQ500",
       "brand": "LG",
-      "price": 999,
-      "previousPrice": 1299,
+      "price": 999.9,
+      "previousPrice": 999,
       "lowestPrice": 949.05,
-      "average30d": 1081.42,
-      "store": "Loja oficial LG no Mercado Livre",
-      "url": "https://lista.mercadolivre.com.br/loja/lg/monitores",
+      "average30d": 1078.7,
+      "store": "LG Oficial no Mercado Livre",
+      "url": "https://www.mercadolivre.com.br/loja/lg",
       "resolution": "2560x1080",
       "format": "21:9 Ultrawide",
       "panel": "IPS",
@@ -55,7 +55,7 @@
       "recommendation": "buy",
       "qualityScore": 8.2,
       "priceScore": 9.2,
-      "notes": "Sem nova oferta confiável do SKU principal melhor que R$ 999; valor anterior preservado. Avell Fusion PRO 29 está confirmado em estoque por R$ 1.099 no Pix e traz IPS 165 Hz, ergonomia e Flicker Free, sendo alternativa forte para quem prioriza fluidez."
+      "notes": "Oferta atual confirmada na LG Oficial no Mercado Livre: R$ 999,90, em 10x de R$ 99,99 sem juros. Fica apenas R$ 50,85 acima da mínima histórica de R$ 949,05. Alternativas: Avell Fusion PRO 29 por R$ 1.099 no Pix e Pichau Nexus Wide 29 Pro por R$ 1.199,99 no Pix."
     },
     {
       "id": "samsung-viewfinity-s8-32-ls32d800ublxzd",
@@ -66,7 +66,7 @@
       "previousPrice": 2099,
       "lowestPrice": 2099,
       "average30d": 2099,
-      "store": "Amazon",
+      "store": "Última oferta confiável registrada",
       "url": "https://www.amazon.com.br/s?k=LS32D800UBLXZD",
       "resolution": "3840x2160",
       "format": "16:9",
@@ -80,19 +80,19 @@
       "recommendation": "watch",
       "qualityScore": 9.6,
       "priceScore": 7.2,
-      "notes": "Sem nova oferta confiável do S8 32 4K IPS nesta execução; preservado em R$ 2.099 sem adicionar observação fictícia. Continua sendo a escolha principal desta faixa quando disponível por combinar 4K IPS, USB-C 90 W e ergonomia."
+      "notes": "A Samsung não mostra oferta oficial ativa do ViewFinity S8 32 nesta execução. Há anúncio de marketplace por cerca de R$ 3.040, mas não foi adotado como preço principal. Mantido o último valor confiável de R$ 2.099 sem criar nova observação fictícia. Alternativas atuais incluem Samsung UJ59 4K VA por cerca de R$ 1.212 e Dell P3225QE 4K IPS USB-C 90 W por R$ 4.990."
     },
     {
       "id": "samsung-viewfinity-s5-34-ls34c500galmzd",
       "size": 34,
       "model": "Samsung ViewFinity S5 34",
       "brand": "Samsung",
-      "price": 1295.19,
-      "previousPrice": 1580.07,
+      "price": 1540,
+      "previousPrice": 1295.19,
       "lowestPrice": 1295.19,
-      "average30d": 1573.97,
-      "store": "Samsung via Magazine Luiza",
-      "url": "https://www.magazineluiza.com.br/monitor-samsung-viewfinity-s5-34-wqhd-ultrawide-100hz/p/ca658fj8fe/in/mnpc/",
+      "average30d": 1572.83,
+      "store": "Samsung Oficial no Mercado Livre",
+      "url": "https://www.mercadolivre.com.br/loja/samsung",
       "resolution": "3440x1440",
       "format": "21:9 Ultrawide",
       "panel": "VA",
@@ -102,10 +102,10 @@
       "antiGlare": true,
       "flickerFree": true,
       "lowBlueLight": true,
-      "recommendation": "buy",
+      "recommendation": "good",
       "qualityScore": 9.1,
-      "priceScore": 10,
-      "notes": "NOVA MÍNIMA HISTÓRICA: R$ 1.295,19 no Pix, ou R$ 1.439,10 em 10x de R$ 143,91 sem juros, vendido e entregue pela Samsung no Magalu. Queda de R$ 284,88 (-18,0%) frente à observação anterior. Para produtividade, é uma oferta excepcional em 34 UWQHD 100 Hz; ~110 PPI é bem mais adequado a texto que 29 2560x1080."
+      "priceScore": 8.8,
+      "notes": "Oferta atual confirmada na loja oficial Samsung no Mercado Livre: R$ 1.540 no Pix ou cerca de R$ 1.588 em 10x. Subiu R$ 244,81 (+18,9%) frente à mínima registrada de R$ 1.295,19, que continua sendo o melhor preço histórico. LG 34WR50QK-B está em R$ 1.709 no Pix e AOC AGON U34G4C em R$ 1.699 no Pix."
     }
   ]
 }
