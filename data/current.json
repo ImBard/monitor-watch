@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-25T14:00:18-03:00",
+  "updatedAt": "2026-09-27T18:00:37-03:00",
   "currency": "BRL",
   "headline": {
     "size": 27,
-    "model": "ASUS ProArt PA278CGRV",
-    "reason": "Nova alternativa forte para MacBook/trabalho: QHD IPS 27, USB-C e ergonomia, em estoque por R$ 2.189,99 no Pix; o PA279CRV 4K está indisponível."
+    "model": "LG Smart Monitor AI U7S 27U731SB-W",
+    "reason": "Nova linha 2026 já à venda no Brasil: 27 pol 4K IPS, USB-C PD 65 W, webOS 26, AirPlay 2 e alto-falantes por referência de R$ 2.299; é a alternativa mais completa para MacBook/setup de um cabo nesta faixa."
   },
   "monitors": [
     {
@@ -30,7 +30,7 @@
       "recommendation": "watch",
       "qualityScore": 9.3,
       "priceScore": 6.8,
-      "notes": "R$ 1.578,84 no Pix ou 8x de R$ 197,35, vendido e entregue por Ponto no Carrefour. Preço reconfirmado em 25/09; segue 58,0% acima da mínima histórica de R$ 999, então vale aguardar."
+      "notes": "Última oferta confiável permanece R$ 1.578,84 no Pix; não houve cotação fresca melhor confirmada nesta execução. Nova alternativa forte: LG Smart 27U731SB-W 4K IPS com USB-C PD 65 W, webOS 26/AirPlay 2 e speakers por R$ 2.299."
     },
     {
       "id": "lg-29wq500",
@@ -80,7 +80,7 @@
       "recommendation": "watch",
       "qualityScore": 9.6,
       "priceScore": 7.2,
-      "notes": "Sem oferta atual suficientemente confiável do S8 32; preservado em R$ 2.099 sem nova observação. LG 32UN500-W está R$ 1.899,99 e Dell P3225QE está R$ 4.990."
+      "notes": "Sem cotação fresca confiável do S8 nesta execução; preservado em R$ 2.099 sem nova observação. Nova alternativa oficial da linha 2026: LG Smart 32U701SB-B 4K com webOS 26 e USB-C PD 65 W por referência de R$ 2.299."
     },
     {
       "id": "samsung-viewfinity-s5-34-ls34c500galmzd",
@@ -105,7 +105,7 @@
       "recommendation": "good",
       "qualityScore": 9.1,
       "priceScore": 8.8,
-      "notes": "Preço reconfirmado em R$ 1.540 no Pix ou R$ 1.588 em 10x. A mínima histórica segue R$ 1.295,19."
+      "notes": "Sem nova cotação limpa do S5 nesta execução; preservado em R$ 1.540. LG 34WR50QK-B está em estoque por R$ 1.497,29 no Pix na Negociun, 3440x1440 VA curvo 100 Hz."
     }
   ]
 }
