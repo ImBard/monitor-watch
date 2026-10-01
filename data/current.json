@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-30T10:03:46-03:00",
+  "updatedAt": "2026-10-01T17:58:14-03:00",
   "currency": "BRL",
   "headline": {
     "size": 27,
-    "model": "LG Smart Monitor AI U7S 27U731SB-W",
-    "reason": "Nova linha 2026 já à venda no Brasil: 27 pol 4K IPS, USB-C PD 65 W, webOS 26, AirPlay 2 e alto-falantes por referência de R$ 2.299; é a alternativa mais completa para MacBook/setup de um cabo nesta faixa."
+    "model": "ASUS ProArt PA278CGRV",
+    "reason": "Oferta nova forte para MacBook e trabalho: 27 pol QHD IPS 144 Hz, USB-C PD 96 W, hub USB, Auto KVM, Delta E < 2 e ergonomia por R$ 1.999,99 no Pix na TerabyteShop."
   },
   "monitors": [
     {
@@ -30,7 +30,7 @@
       "recommendation": "watch",
       "qualityScore": 9.3,
       "priceScore": 6.8,
-      "notes": "Oferta reconfirmada em 30/09/2026 por R$ 1.578,84 no Pix ou 8x de R$ 197,35 no Carrefour/Ponto. Continua acima da mínima histórica de R$ 999."
+      "notes": "Última oferta confiável preservada em R$ 1.578,84; sem cotação brasileira fresca melhor confirmada nesta execução."
     },
     {
       "id": "lg-29wq500",
@@ -80,19 +80,19 @@
       "recommendation": "watch",
       "qualityScore": 9.6,
       "priceScore": 7.2,
-      "notes": "Sem cotação fresca confiável do S8 nesta execução; preservado em R$ 2.099 sem nova observação. Nova alternativa oficial da linha 2026: LG Smart 32U701SB-B 4K com webOS 26 e USB-C PD 65 W por referência de R$ 2.299."
+      "notes": "Sem cotação fresca confiável do S8 nesta execução; preservado em R$ 2.099 sem nova observação."
     },
     {
       "id": "samsung-viewfinity-s5-34-ls34c500galmzd",
       "size": 34,
       "model": "Samsung ViewFinity S5 34",
       "brand": "Samsung",
-      "price": 1540,
+      "price": 1575.04,
       "previousPrice": 1540,
       "lowestPrice": 1295.19,
-      "average30d": 1571.78,
-      "store": "Samsung no Mercado Livre",
-      "url": "https://lista.mercadolivre.com.br/monitor-samsung-viewfinity-s5-34%22",
+      "average30d": 1572.91,
+      "store": "Venturi Gaming",
+      "url": "https://www.venturigaming.com.br/produtos/monitor-gamer-samsung-viewfinity-s5-led-va-hdr-10-ultra-wide-amd-free-sync-100hz-1ms-hdmi-dp-qhd-2-5k-34-ls34c500galmzd-5685p/",
       "resolution": "3440x1440",
       "format": "21:9 Ultrawide",
       "panel": "VA",
@@ -104,8 +104,8 @@
       "lowBlueLight": true,
       "recommendation": "good",
       "qualityScore": 9.1,
-      "priceScore": 8.8,
-      "notes": "Sem nova cotação limpa do S5 nesta execução; preservado em R$ 1.540. LG 34WR50QK-B está em estoque por R$ 1.497,29 no Pix na Negociun, 3440x1440 VA curvo 100 Hz."
+      "priceScore": 8.5,
+      "notes": "Oferta confirmada em 01/10/2026 por R$ 1.575,04 no Pix/boleto; última peça. Parcelado R$ 1.852,99 em 12x. Subiu R$ 35,04 frente aos R$ 1.540 anteriores."
     }
   ]
 }
