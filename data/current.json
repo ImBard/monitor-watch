@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-01T17:58:14-03:00",
+  "updatedAt": "2026-10-03T17:57:09-03:00",
   "currency": "BRL",
   "headline": {
     "size": 27,
-    "model": "ASUS ProArt PA278CGRV",
-    "reason": "Oferta nova forte para MacBook e trabalho: 27 pol QHD IPS 144 Hz, USB-C PD 96 W, hub USB, Auto KVM, Delta E < 2 e ergonomia por R$ 1.999,99 no Pix na TerabyteShop."
+    "model": "AOC U27B3A",
+    "reason": "Queda confirmada para R$ 1.499,90 no Pix no Shopping Sicredi, fornecido e entregue por Ponto; 27 pol 4K IPS com ~163 PPI. Ainda acima da mínima histórica de R$ 999."
   },
   "monitors": [
     {
@@ -12,12 +12,12 @@
       "size": 27,
       "model": "AOC U27B3A",
       "brand": "AOC",
-      "price": 1578.84,
+      "price": 1499.9,
       "previousPrice": 1578.84,
       "lowestPrice": 999,
-      "average30d": 1134.16,
-      "store": "Carrefour Marketplace (Ponto)",
-      "url": "https://www.carrefour.com.br/produto/monitor-k-uba-hdr0-alto-falantes-integrados-bivolt-aoc-339568282",
+      "average30d": 1131.84,
+      "store": "Shopping Sicredi (Ponto)",
+      "url": "https://shopping.sicredi.com.br/monitor-27-4k-aoc-u27b3a-57-hdr10-alto-falantes-integrados-bivolt-preto-380211/p",
       "resolution": "3840x2160",
       "format": "16:9",
       "panel": "IPS",
@@ -27,10 +27,10 @@
       "antiGlare": true,
       "flickerFree": true,
       "lowBlueLight": true,
-      "recommendation": "watch",
+      "recommendation": "good",
       "qualityScore": 9.3,
-      "priceScore": 6.8,
-      "notes": "Última oferta confiável preservada em R$ 1.578,84; sem cotação brasileira fresca melhor confirmada nesta execução."
+      "priceScore": 7.5,
+      "notes": "Oferta confirmada em 03/10/2026: R$ 1.499,90 no Pix; R$ 1.578,84 em até 6x de R$ 263,14 sem juros; últimas 10 unidades. Ainda acima da mínima histórica de R$ 999."
     },
     {
       "id": "lg-29wq500",
