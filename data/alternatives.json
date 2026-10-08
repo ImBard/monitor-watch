@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-30T10:03:46-03:00",
+  "updatedAt": "2026-10-08T21:04:02.390Z",
   "alternatives": {
     "aoc-u27b3a": [
       {
         "id": "lg-27u731sb-w",
         "model": "LG Smart AI 27U731SB-W",
         "category": "best-macbook-smart",
-        "price": 2299,
-        "store": "Última referência confiável LG",
+        "price": 2178,
+        "store": "LG Brasil",
         "url": "https://www.lg.com/br/monitores/smart-monitors/27u731sb-w/",
         "resolution": "3840x2160",
         "panel": "IPS",
@@ -15,7 +15,7 @@
         "ppi": 163,
         "usbCPD": 65,
         "vesa": true,
-        "notes": "4K IPS, webOS, AirPlay 2, Wi-Fi/Bluetooth, alto-falantes e USB-C PD 65 W. Sem nova cotação direta suficientemente clara nesta execução; valor anterior preservado."
+        "notes": "R$ 2.178 Pix / R$ 2.420 em 12x; USB-C PD65W, webOS, AirPlay, hub, speakers."
       },
       {
         "id": "asus-pa279crv",
@@ -35,47 +35,79 @@
       {
         "id": "dell-s2725qc",
         "model": "Dell S2725QC",
-        "category": "macbook-120hz",
-        "price": 4128,
+        "category": "best-4k-120hz",
+        "price": 3889,
         "store": "Dell Brasil",
-        "url": "https://www.dell.com/pt-br/shop/cty/pdp/spd/s2725qc-monitor/m_s2725qc_usbr",
+        "url": "https://www.dell.com/pt-br/shop/computer-monitors/ar/all-monitor/appref%3D3001-8000-price",
         "resolution": "3840x2160",
         "panel": "IPS",
         "refreshRate": 120,
         "ppi": 163,
         "usbCPD": 65,
         "vesa": true,
-        "notes": "4K IPS 120 Hz, USB-C PD 65 W, alto-falantes e suporte com altura/pivô/giro. R$ 4.128 em até 12x."
+        "notes": "R$ 3.889; 4K 120Hz, USB-C PD65W, base ergonômica, speakers."
       },
       {
         "id": "lg-27u711b-b",
         "model": "LG UltraFine 27U711B-B",
-        "category": "image-quality-value",
-        "price": 1399,
-        "store": "Última referência confiável",
-        "url": "https://www.lg.com/br/",
+        "category": "budget-4k",
+        "price": 1325.37,
+        "store": "LG Brasil",
+        "url": "https://www.lg.com/br/monitores/todos-monitores/buy/?ec_model_status_code=ACTIVE&firstResult=16",
         "resolution": "3840x2160",
         "panel": "IPS",
         "refreshRate": 60,
         "ppi": 163,
+        "usbCPD": 0,
         "vesa": true,
-        "notes": "4K IPS, DCI-P3 90%, HDR10 e VESA; sem USB-C. Valor preservado por falta de cotação atual suficientemente clara."
+        "notes": "R$ 1.325,37 Pix / R$ 1.472,63 em 12x; HDR10, DCI-P3 90%, sem USB-C."
+      },
+      {
+        "id": "lg-27us500-w",
+        "model": "LG UltraFine 27US500-W",
+        "category": "best-value-4k",
+        "price": 1306.4,
+        "store": "LG Brasil",
+        "url": "https://www.lg.com/br/monitores/todos-monitores/buy/?ec_model_status_code=ACTIVE&firstResult=16",
+        "resolution": "3840x2160",
+        "panel": "IPS",
+        "refreshRate": 60,
+        "ppi": 163,
+        "usbCPD": 0,
+        "vesa": true,
+        "notes": "R$ 1.306,40 Pix / 12x R$ 118,33; HDR10, DCI-P3 90%, sem USB-C; verificar se é pré-venda."
+      },
+      {
+        "id": "asus-pa278cgrv",
+        "model": "ASUS ProArt PA278CGRV",
+        "category": "creative-ergonomic",
+        "price": 1999.99,
+        "store": "TerabyteShop",
+        "url": "https://www.terabyteshop.com.br/produto/42164/monitor-profissional-asus-proart-display-pa278cgrv-27-pol-qhd-ips-97-dci-p3-100-srgb-hdr400-hdmidpusb-c",
+        "resolution": "2560x1440",
+        "panel": "IPS",
+        "refreshRate": 144,
+        "ppi": 109,
+        "usbCPD": 96,
+        "vesa": true,
+        "notes": "R$ 1.999,99 Pix / R$ 2.352,93 em 12x; Calman, sensor de luz, hub, base ajustável; pronta entrega."
       }
     ],
     "lg-29wq500": [
       {
         "id": "avell-fusion-pro-29",
         "model": "Avell Fusion PRO 29",
-        "category": "high-refresh-value",
+        "category": "best-value-165hz",
         "price": 1099,
         "store": "Avell",
-        "url": "https://avell.com.br/monitor-fusion-pro-29-165hz-ultra-wide",
+        "url": "https://avell.com.br/acessorios",
         "resolution": "2560x1080",
         "panel": "IPS",
         "refreshRate": 165,
         "ppi": 96,
+        "usbCPD": 0,
         "vesa": true,
-        "notes": "Preço reconfirmado em 30/09/2026: R$ 1.099 no Pix ou 12x de R$ 101,76 sem juros; IPS 165 Hz, 99% sRGB, Flicker Free/Low Blue Light, VESA 75x75 e ajuste de altura."
+        "notes": "R$ 1.099 Pix / 12x R$ 101,76; altura ajustável, 99% sRGB, Flicker-Free."
       },
       {
         "id": "pichau-nexus-wide-29-pro",
@@ -93,17 +125,17 @@
       },
       {
         "id": "lg-29wq600",
-        "model": "LG 29WQ600",
-        "category": "better-connectivity",
-        "price": 1353.15,
-        "store": "Última oferta confiável",
-        "url": "https://www.lg.com/br/suporte/suporte-ao-producto/cs-29WQ600B-W.AWZM/",
+        "model": "LG 29WQ600-B",
+        "category": "best-usb-c",
+        "price": 1272.05,
+        "store": "Shopping Sicredi (Casas Bahia)",
+        "url": "https://shopping.sicredi.com.br/monitor-ultrawide-29--lg-29wq600-b-com-tela-ips-full-hd-100hz-amd-freesync--branco-337061/p",
         "resolution": "2560x1080",
         "panel": "IPS",
         "refreshRate": 100,
         "ppi": 96,
         "vesa": true,
-        "notes": "USB-C, HDR10, sRGB 99% e alto-falantes 2x7 W. Sem nova cotação direta suficientemente clara nesta execução; valor anterior preservado."
+        "notes": "R$ 1.272,05 Pix / R$ 1.339 em 6x; USB-C, potência PD não confirmada, speakers, HDR10."
       }
     ],
     "samsung-viewfinity-s8-32-ls32d800ublxzd": [
@@ -139,16 +171,16 @@
         "id": "dell-p3225qe",
         "model": "Dell Pro 32 Plus P3225QE",
         "category": "best-macbook-dock",
-        "price": 4990,
+        "price": 4559,
         "store": "Dell Brasil",
-        "url": "https://www.dell.com/pt-br/shop/monitores-para-computador/ar/8605",
+        "url": "https://www.dell.com/pt-br/shop/computer-monitors/ar/all-monitor",
         "resolution": "3840x2160",
         "panel": "IPS",
         "refreshRate": 100,
         "ppi": 140,
         "usbCPD": 90,
         "vesa": true,
-        "notes": "4K IPS 100 Hz, USB-C PD 90 W, hub USB, Ethernet e ergonomia completa. R$ 4.990."
+        "notes": "R$ 4.559; USB-C PD90W, Ethernet, hub, altura, pivô, giro."
       },
       {
         "id": "asus-pa329cv",
@@ -163,36 +195,82 @@
         "ppi": 138,
         "vesa": true,
         "notes": "R$ 5.641,48 no Pix ou R$ 6.637,04 em 12x. 4K IPS, HDR400, 100% sRGB/Rec.709 e Delta E <2."
+      },
+      {
+        "id": "lg-32ur500k-b",
+        "model": "LG UltraFine 32UR500K-B",
+        "category": "budget-4k",
+        "price": 1742.19,
+        "store": "LG Brasil",
+        "url": "https://www.lg.com/br/promocoes/roadauto/",
+        "resolution": "3840x2160",
+        "panel": "VA",
+        "refreshRate": 60,
+        "ppi": 138,
+        "usbCPD": 0,
+        "vesa": true,
+        "notes": "R$ 1.742,19 Pix / R$ 1.893,68 em 12x; HDR10, speakers, sem USB-C."
+      },
+      {
+        "id": "lg-32u701sb-b",
+        "model": "LG Smart 32U701SB-B",
+        "category": "smart-4k",
+        "price": 2178,
+        "store": "LG Brasil",
+        "url": "https://www.lg.com/br/monitores/todos-monitores/buy/?ec_model_status_code=ACTIVE&firstResult=16",
+        "resolution": "3840x2160",
+        "panel": "VA",
+        "refreshRate": 60,
+        "ppi": 138,
+        "usbCPD": 0,
+        "vesa": true,
+        "notes": "R$ 2.178 Pix / R$ 2.420 em 12x; webOS, AirPlay, sem USB-C PD."
+      },
+      {
+        "id": "dell-u3225qe",
+        "model": "Dell UltraSharp U3225QE",
+        "category": "premium-ips-black",
+        "price": 7389,
+        "store": "Dell Brasil",
+        "url": "https://www.dell.com/pt-br/shop/computer-monitors/ar/all-monitor",
+        "resolution": "3840x2160",
+        "panel": "IPS Black",
+        "refreshRate": 120,
+        "ppi": 140,
+        "vesa": true,
+        "notes": "R$ 7.389; Thunderbolt, IPS Black, ergonomia. Confirmar PD por SKU."
       }
     ],
     "samsung-viewfinity-s5-34-ls34c500galmzd": [
       {
         "id": "aoc-u34g4c",
         "model": "AOC AGON U34G4C",
-        "category": "high-refresh-value",
-        "price": 1699,
-        "store": "Mercado Livre",
-        "url": "https://lista.mercadolivre.com.br/monitor-aoc-u34g4c",
+        "category": "gaming-180hz",
+        "price": 1899.99,
+        "store": "Amazon Brasil (varejo)",
+        "url": "https://www.amazon.com.br/s?k=AOC+U34G4C",
         "resolution": "3440x1440",
         "panel": "Fast VA",
         "refreshRate": 180,
         "ppi": 110,
+        "usbCPD": 0,
         "vesa": true,
-        "notes": "R$ 1.699 no Pix ou R$ 1.888 em 10x. 3440x1440, 180 Hz e base ajustável; forte alternativa se também houver uso para jogos."
+        "notes": "R$ 1.899,99 em resultado de varejo Amazon; confirmar vendedor e preço no checkout."
       },
       {
         "id": "lg-34wr50qk-b",
         "model": "LG 34WR50QK-B",
-        "category": "curved-work-value",
-        "price": 1709,
-        "store": "LG Oficial no Mercado Livre",
-        "url": "https://www.mercadolivre.com.br/loja/lg",
+        "category": "curved-work",
+        "price": 1887.45,
+        "store": "LG Brasil",
+        "url": "https://www.lg.com/br/monitores/todos-monitores/buy/?ec_model_status_code=ACTIVE&firstResult=16",
         "resolution": "3440x1440",
         "panel": "VA",
         "refreshRate": 100,
         "ppi": 110,
+        "usbCPD": 0,
         "vesa": true,
-        "notes": "R$ 1.709 no Pix ou R$ 1.899 em 10x sem juros. Curvo, HDR10, sRGB 99%, Reader Mode e Flicker Safe."
+        "notes": "R$ 1.887,45 Pix / R$ 2.051,58 em 12x no catálogo LG; Reader Mode, Flicker Safe."
       },
       {
         "id": "samsung-odyssey-g5-34",
@@ -207,6 +285,36 @@
         "ppi": 110,
         "vesa": true,
         "notes": "Curvo 165 Hz; valor anterior preservado por falta de cotação oficial atual melhor confirmada nesta execução."
+      },
+      {
+        "id": "lg-34u620b-b",
+        "model": "LG UltraWide 34U620B-B",
+        "category": "best-value-144hz",
+        "price": 1704.31,
+        "store": "LG Brasil",
+        "url": "https://www.lg.com/br/monitores/monitores-ultrawide-1/",
+        "resolution": "3440x1440",
+        "panel": "VA",
+        "refreshRate": 144,
+        "ppi": 110,
+        "usbCPD": 0,
+        "vesa": true,
+        "notes": "R$ 1.704,31 Pix / R$ 1.893,68 em 12x; curvo 1800R, PIP/PBP, FreeSync Premium."
+      },
+      {
+        "id": "dell-p3426wev",
+        "model": "Dell Pro P3426WEV",
+        "category": "best-ips-dock",
+        "price": 6399,
+        "store": "Dell Brasil",
+        "url": "https://www.dell.com/pt-br/shop/computer-monitors/ar/all-monitor/appref%3D3001-8000-price",
+        "resolution": "3440x1440",
+        "panel": "IPS",
+        "refreshRate": 100,
+        "ppi": 110,
+        "usbCPD": 90,
+        "vesa": true,
+        "notes": "R$ 6.399; webcam, hub, Ethernet, PD90W, base ergonômica."
       }
     ]
   }
